@@ -8,7 +8,7 @@ Ambas possuem capacidade de executar operações simples (soma, divisão, multip
 
 Problemas solucionado nos codigos:
 
-1 - Aplicação processa todos os itens (1. Adição (+); 2. Subtração (-); 3. Multiplicação (*); 4. Divisão (/); 5. Mostrar Todas as Operações; 6. Mostrar Resultado Final e 7. Sair).
+<li> 1 - Aplicação processa todos os itens (1. Adição (+); 2. Subtração (-); 3. Multiplicação (*); 4. Divisão (/); 5. Mostrar Todas as Operações; 6. Mostrar Resultado Final e 7. Sair).</li>
 
 2 - Implementação na funcionalidade Divisão.
 
